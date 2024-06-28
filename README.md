@@ -15,6 +15,13 @@ Our environment also contains a dictionary for texts associated with the positio
 
 The project also have two different mazes used but this can be changed in the notebook. Where you can add or remove as many positive or negative bots.
 
+### UI implemented
+This also brings a UI where you can see the steps and paths taken by the agent when it finishes learning the best path.
+
+![image](https://github.com/swagataLA/tb-rl/assets/123109547/14d04846-9ef0-4035-b624-73c05eda7e44)
+![image](https://github.com/swagataLA/tb-rl/assets/123109547/b5aa8dec-c2f9-491b-be22-36e5d70196d7)
+
+
 ### Future implementation ideas
 - Moving bots that follow a specific path
 - Make it a multi-agent environment where the bots are also agents
